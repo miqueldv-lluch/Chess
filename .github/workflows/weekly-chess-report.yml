@@ -1,0 +1,70 @@
+name: Weekly Chess Report
+
+on:
+  schedule:
+    # Cada dilluns a les 07:00 UTC (~08:00/09:00 hora de Barcelona segons DST)
+    - cron: '0 7 * * 1'
+  workflow_dispatch: {}   # permet llançar-lo manualment des de la pestanya Actions
+
+permissions:
+  contents: write
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Instal·lar Stockfish
+        run: sudo apt-get update && sudo apt-get install -y stockfish
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instal·lar dependències Python
+        run: pip install -r requirements.txt
+
+      - name: Generar informe setmanal
+        env:
+          STOCKFISH_PATH: /usr/games/stockfish
+          PYTHONUNBUFFERED: "1"
+        run: python3 -u scripts/weekly_report.py --username baikthemaik --days 7 --depth 12
+
+      - name: Llegir resum per al cos del correu
+        id: summary
+        run: |
+          if [ -f docs/reports/latest_summary.json ]; then
+            echo "summary=$(cat docs/reports/latest_summary.json | tr -d '\n')" >> "$GITHUB_OUTPUT"
+          else
+            echo "summary=Cap partida aquesta setmana" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit i push de l'informe
+        run: |
+          git config user.name "chess-report-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Informe setmanal $(date +'%Y-%m-%d')"
+          git push
+
+      - name: Enviar correu amb el resum
+        if: always()
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.SMTP_SERVER }}
+          server_port: ${{ secrets.SMTP_PORT }}
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: "Informe setmanal d'escacs — ${{ steps.summary.outputs.summary }}"
+          to: ${{ secrets.REPORT_EMAIL }}
+          from: "Chess Report Bot"
+          body: |
+            Informe setmanal generat i pujat al repositori.
+
+            Resum: ${{ steps.summary.outputs.summary }}
+
+            Consulta l'informe complet a:
+            https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
