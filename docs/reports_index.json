@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "date": "2026-08-17",
+    "file": "report_2026-08-17.html",
+    "avg_accuracy": 87.7,
+    "total_blunders": 247,
+    "win": 59,
+    "loss": 55,
+    "draw": 7
+  }
+]
