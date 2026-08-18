@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-08-18",
+    "file": "report_2026-08-18.html",
+    "avg_accuracy": 88.0,
+    "total_blunders": 221,
+    "win": 61,
+    "loss": 50,
+    "draw": 7
+  },
+  {
     "date": "2026-08-17",
     "file": "report_2026-08-17.html",
     "avg_accuracy": 87.7,
