@@ -1,11 +1,11 @@
 {
   "avg_accuracy": 87.5,
-  "total_blunders": 156,
+  "total_blunders": 199,
   "results": {
-    "win": 40,
-    "loss": 41,
+    "win": 52,
+    "loss": 44,
     "draw": 3
   },
-  "n_games": 84,
-  "report_file": "docs/reports/report_2026-09-07.html"
+  "n_games": 99,
+  "report_file": "docs/reports/report_2026-09-14.html"
 }
