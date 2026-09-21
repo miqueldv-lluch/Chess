@@ -1,0 +1,4863 @@
+{
+  "n_games_total": 53,
+  "per_color": {
+    "white": {
+      "n": 27,
+      "blunders": 53,
+      "mistakes": 138,
+      "inaccuracies": 131,
+      "results": {
+        "win": 15,
+        "loss": 12,
+        "draw": 0
+      },
+      "avg_accuracy": 86.5
+    },
+    "black": {
+      "n": 26,
+      "blunders": 44,
+      "mistakes": 104,
+      "inaccuracies": 114,
+      "results": {
+        "win": 10,
+        "loss": 15,
+        "draw": 1
+      },
+      "avg_accuracy": 87.7
+    }
+  },
+  "errors_by_phase": {
+    "obertura": 157,
+    "migjoc": 269,
+    "final": 158
+  },
+  "openings": {
+    "Caro Kann Defense Advance Variation": {
+      "n": 1,
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "color_white": 0,
+      "color_black": 1
+    },
+    "Scandinavian Defense Mieses Kotrc Variation 3.Nc3 Qd8 4.Nf3": {
+      "n": 2,
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "color_white": 2,
+      "color_black": 0
+    },
+    "Caro Kann Defense 2.f4 d5 3.e5": {
+      "n": 2,
+      "win": 0,
+      "loss": 2,
+      "draw": 0,
+      "color_white": 2,
+      "color_black": 0
+    },
+    "Caro Kann Defense Advance Short Variation with 4 Nf3": {
+      "n": 1,
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "color_white": 0,
+      "color_black": 1
+    },
+    "Caro Kann Defense": {
+      "n": 2,
+      "win": 0,
+      "loss": 2,
+      "draw": 0,
+      "color_white": 0,
+      "color_black": 2
+    },
+    "French Defense La Bourdonnais Variation": {
+      "n": 2,
+      "win": 0,
+      "loss": 2,
+      "draw": 0,
+      "color_white": 2,
+      "color_black": 0
+    },
+    "Caro Kann Defense Exchange Variation 3...cxd5": {
+      "n": 1,
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "color_white": 0,
+      "color_black": 1
+    },
+    "Kings Gambit": {
+      "n": 2,
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "color_white": 2,
+      "color_black": 0
+    },
+    "Slav Defense": {
+      "n": 1,
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "color_white": 0,
+      "color_black": 1
+    },
+    "Queens Pawn Opening Chigorin Variation 2...c6": {
+      "n": 1,
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "color_white": 0,
+      "color_black": 1
+    },
+    "Sicilian Defense McDonnell Attack 2...d6": {
+      "n": 1,
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "color_white": 1,
+      "color_black": 0
+    },
+    "Caro Kann Defense 2.Nf3 d5 3.exd5 cxd5": {
+      "n": 3,
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "color_white": 0,
+      "color_black": 3
+    },
+    "Scandinavian Defense Mieses Kotrc Main Line 4.Nf3 Nf6 5.Bc4 Bg4": {
+      "n": 1,
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "color_white": 1,
+      "color_black": 0
+    },
+    "Caro Kann Defense 2.d4 d5 3.Nc3": {
+      "n": 3,
+      "win": 0,
+      "loss": 3,
+      "draw": 0,
+      "color_white": 0,
+      "color_black": 3
+    },
+    "Kings Gambit Accepted Kings Knight Gambit": {
+      "n": 4,
+      "win": 3,
+      "loss": 1,
+      "draw": 0,
+      "color_white": 4,
+      "color_black": 0
+    },
+    "Nimzowitsch Larsen Attack Classical Variation 2.Bb2 c6": {
+      "n": 1,
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "color_white": 0,
+      "color_black": 1
+    },
+    "Kings Gambit Declined Queens Knight Defense 3.Nf3": {
+      "n": 3,
+      "win": 2,
+      "loss": 1,
+      "draw": 0,
+      "color_white": 3,
+      "color_black": 0
+    },
+    "Van t Kruijs Opening": {
+      "n": 1,
+      "win": 0,
+      "loss": 0,
+      "draw": 1,
+      "color_white": 0,
+      "color_black": 1
+    },
+    "Pirc Defense Harmonist Variation": {
+      "n": 1,
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "color_white": 1,
+      "color_black": 0
+    },
+    "Kings Gambit Accepted Kings Knight Gambit 3...g5 4.d4": {
+      "n": 1,
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "color_white": 1,
+      "color_black": 0
+    },
+    "Kings Gambit Declined Classical Variation 3.Nf3 d6": {
+      "n": 1,
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "color_white": 1,
+      "color_black": 0
+    },
+    "Caro Kann Defense Exchange Variation 3...cxd5 4.Nf3": {
+      "n": 1,
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "color_white": 0,
+      "color_black": 1
+    },
+    "Nimzowitsch Defense": {
+      "n": 1,
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "color_white": 1,
+      "color_black": 0
+    },
+    "Reti Opening Slav Invitation": {
+      "n": 1,
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "color_white": 0,
+      "color_black": 1
+    },
+    "London System...4.c3 Bf5 5.e3 e6": {
+      "n": 1,
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "color_white": 0,
+      "color_black": 1
+    },
+    "Scandinavian Defense Mieses Kotrc Variation 3.Nc3": {
+      "n": 1,
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "color_white": 1,
+      "color_black": 0
+    },
+    "London System 3...c6 4.e3 Bf5 5.Bd3": {
+      "n": 1,
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "color_white": 0,
+      "color_black": 1
+    },
+    "Slav Defense Modern Exchange Variation 4...cxd5 5.Nc3": {
+      "n": 1,
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "color_white": 0,
+      "color_black": 1
+    },
+    "Caro Kann Defense 2.f4 d5": {
+      "n": 1,
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "color_white": 0,
+      "color_black": 1
+    },
+    "Pirc Defense...3.f4 g6 4.Nf3 Bg7": {
+      "n": 1,
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "color_white": 1,
+      "color_black": 0
+    },
+    "Caro Kann Defense Fantasy Variation": {
+      "n": 1,
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "color_white": 0,
+      "color_black": 1
+    },
+    "Caro Kann Defense 2.Nf3 d5": {
+      "n": 1,
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "color_white": 0,
+      "color_black": 1
+    },
+    "Scandinavian Defense Mieses Kotrc Variation 3.Nc3 Qd8 4.Bc4": {
+      "n": 1,
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "color_white": 1,
+      "color_black": 0
+    },
+    "Queens Pawn Opening Zukertort Variation...3.e3 Bg4 4.c4 e6": {
+      "n": 1,
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "color_white": 0,
+      "color_black": 1
+    },
+    "Kings Gambit Accepted Fischer Defense 4.d4": {
+      "n": 1,
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "color_white": 1,
+      "color_black": 0
+    },
+    "Caro Kann Defense 2.Nc3 d5": {
+      "n": 1,
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "color_white": 0,
+      "color_black": 1
+    },
+    "Caro Kann Defense Advance Variation 3...Bf5": {
+      "n": 1,
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "color_white": 0,
+      "color_black": 1
+    },
+    "Kings Gambit Declined Keene Defense 3.g3": {
+      "n": 1,
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "color_white": 1,
+      "color_black": 0
+    },
+    "Kings Gambit Declined Classical Variation 3.Nf3": {
+      "n": 1,
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "color_white": 1,
+      "color_black": 0
+    }
+  },
+  "games": [
+    {
+      "color": "black",
+      "opening": "Caro Kann Defense Advance Variation",
+      "result": "loss",
+      "accuracy": 88.6,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Be6",
+          "best": "Bf5",
+          "loss_cp": 73
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Nd7",
+          "best": "Bg4",
+          "loss_cp": 111
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "f6",
+          "best": "Bg4",
+          "loss_cp": 70
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Qb6",
+          "best": "Bd6",
+          "loss_cp": 126
+        }
+      ]
+    },
+    {
+      "color": "white",
+      "opening": "Scandinavian Defense Mieses Kotrc Variation 3.Nc3 Qd8 4.Nf3",
+      "result": "win",
+      "accuracy": 88.7,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Bb5+",
+          "best": "d4",
+          "loss_cp": 53
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Ne2",
+          "best": "Re1",
+          "loss_cp": 93
+        },
+        {
+          "phase": "obertura",
+          "tag": "blunder",
+          "move": "Nd4",
+          "best": "d4",
+          "loss_cp": 545
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "c3",
+          "best": "Ne2",
+          "loss_cp": 52
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Qe2",
+          "best": "Ne2",
+          "loss_cp": 488
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Rg4",
+          "best": "Bxh7+",
+          "loss_cp": 120
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "f4",
+          "best": "Rxg7+",
+          "loss_cp": 74
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Rxg7+",
+          "best": "Bxg7",
+          "loss_cp": 101
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "h4",
+          "best": "Bg7+",
+          "loss_cp": 756
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "Bxb2+",
+          "best": "Bh6+",
+          "loss_cp": 747
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Rg2",
+          "best": "Rd2",
+          "loss_cp": 56
+        }
+      ]
+    },
+    {
+      "color": "white",
+      "opening": "Caro Kann Defense 2.f4 d5 3.e5",
+      "result": "loss",
+      "accuracy": 85.1,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Bxf5",
+          "best": "g4",
+          "loss_cp": 141
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "e6",
+          "best": "Qd3",
+          "loss_cp": 202
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Ng5",
+          "best": "Be3",
+          "loss_cp": 108
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Qe2",
+          "best": "Be3",
+          "loss_cp": 87
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Kh1",
+          "best": "Be3",
+          "loss_cp": 80
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Nh3",
+          "best": "Nb3",
+          "loss_cp": 237
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Be3",
+          "best": "Rd1",
+          "loss_cp": 233
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Ng5",
+          "best": "Rf3",
+          "loss_cp": 105
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Qc2",
+          "best": "Qd1",
+          "loss_cp": 129
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Rxf5",
+          "best": "Rad1",
+          "loss_cp": 338
+        }
+      ]
+    },
+    {
+      "color": "black",
+      "opening": "Caro Kann Defense Advance Short Variation with 4 Nf3",
+      "result": "loss",
+      "accuracy": 83.0,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Nd7",
+          "best": "e6",
+          "loss_cp": 72
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Qa5+",
+          "best": "f6",
+          "loss_cp": 64
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Qc7",
+          "best": "Qb6",
+          "loss_cp": 62
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "fxe5",
+          "best": "Bg4",
+          "loss_cp": 53
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Qg5",
+          "best": "Qf7",
+          "loss_cp": 402
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Qg4",
+          "best": "Qh6",
+          "loss_cp": 288
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Qg6",
+          "best": "Qf4",
+          "loss_cp": 75
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Qg4",
+          "best": "Qf7",
+          "loss_cp": 339
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Qa4",
+          "best": "Qd4+",
+          "loss_cp": 996
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Qa5",
+          "best": "Qd4+",
+          "loss_cp": 1278
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "bxa5",
+          "best": "Bd4",
+          "loss_cp": 81
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "O-O-O",
+          "best": "Nf6",
+          "loss_cp": 259
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Nf6",
+          "best": "Kb8",
+          "loss_cp": 111
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "h5",
+          "best": "Kb8",
+          "loss_cp": 91
+        }
+      ]
+    },
+    {
+      "color": "black",
+      "opening": "Caro Kann Defense",
+      "result": "loss",
+      "accuracy": 82.7,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Qh3",
+          "best": "Qe7",
+          "loss_cp": 59
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Nf6",
+          "best": "Nc6",
+          "loss_cp": 206
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Be5",
+          "best": "Be7",
+          "loss_cp": 184
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "O-O",
+          "best": "Nbd7",
+          "loss_cp": 195
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Bxg3",
+          "best": "Ne4",
+          "loss_cp": 124
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Qg2",
+          "best": "Nc6",
+          "loss_cp": 126
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Be2",
+          "best": "Qe2#",
+          "loss_cp": 604
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Qxa1",
+          "best": "Ne4+",
+          "loss_cp": 97
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Qd1+",
+          "best": "Ne4",
+          "loss_cp": 210
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Qxc2+",
+          "best": "Nc6",
+          "loss_cp": 931
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Rcd8",
+          "best": "Rc2+",
+          "loss_cp": 485
+        }
+      ]
+    },
+    {
+      "color": "white",
+      "opening": "French Defense La Bourdonnais Variation",
+      "result": "loss",
+      "accuracy": 80.9,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "f4",
+          "best": "d4",
+          "loss_cp": 56
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "d5",
+          "best": "a4",
+          "loss_cp": 107
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "O-O",
+          "best": "e5",
+          "loss_cp": 99
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Nc3",
+          "best": "Ng5",
+          "loss_cp": 100
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "b3",
+          "best": "Nh4",
+          "loss_cp": 81
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Nc5",
+          "best": "Nd6+",
+          "loss_cp": 501
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "f5",
+          "best": "Nxb7+",
+          "loss_cp": 479
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Bb2",
+          "best": "Nf7",
+          "loss_cp": 96
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "f6",
+          "best": "Nf7",
+          "loss_cp": 210
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "f7",
+          "best": "Nf7",
+          "loss_cp": 293
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Bxh5",
+          "best": "Qe1",
+          "loss_cp": 97
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "c3",
+          "best": "Qg4",
+          "loss_cp": 106
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "cxb4",
+          "best": "Qg4",
+          "loss_cp": 232
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "Rxf3",
+          "best": "Bxf3",
+          "loss_cp": 476
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "Bc1",
+          "best": "Rf5",
+          "loss_cp": 589
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Be3",
+          "best": "g4",
+          "loss_cp": 130
+        }
+      ]
+    },
+    {
+      "color": "black",
+      "opening": "Caro Kann Defense Exchange Variation 3...cxd5",
+      "result": "loss",
+      "accuracy": 92.0,
+      "errors": [
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Qg5",
+          "best": "f5",
+          "loss_cp": 82
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Bxg3",
+          "best": "e4",
+          "loss_cp": 222
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Rac8",
+          "best": "Qd8",
+          "loss_cp": 191
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "a6",
+          "best": "Qd8",
+          "loss_cp": 51
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Rxf1+",
+          "best": "e5",
+          "loss_cp": 87
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "b5",
+          "best": "Qe3+",
+          "loss_cp": 212
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Qc5+",
+          "best": "Qxe2",
+          "loss_cp": 89
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Qd6",
+          "best": "b4",
+          "loss_cp": 93
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Qf6",
+          "best": "Qe5",
+          "loss_cp": 65
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Kg5",
+          "best": "Qxc6",
+          "loss_cp": 126
+        }
+      ]
+    },
+    {
+      "color": "white",
+      "opening": "Kings Gambit",
+      "result": "loss",
+      "accuracy": 61.6,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "f4",
+          "best": "Nf3",
+          "loss_cp": 81
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Nd5",
+          "best": "Nf3",
+          "loss_cp": 91
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "d3",
+          "best": "d4",
+          "loss_cp": 87
+        },
+        {
+          "phase": "obertura",
+          "tag": "blunder",
+          "move": "c4",
+          "best": "Bxf4",
+          "loss_cp": 483
+        },
+        {
+          "phase": "obertura",
+          "tag": "blunder",
+          "move": "Bxf4",
+          "best": "Rb1",
+          "loss_cp": 662
+        },
+        {
+          "phase": "obertura",
+          "tag": "blunder",
+          "move": "Bxc7",
+          "best": "Rc1",
+          "loss_cp": 980
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Rb1",
+          "best": "Nf3",
+          "loss_cp": 630
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Rxb7",
+          "best": "Be2",
+          "loss_cp": 1062
+        }
+      ]
+    },
+    {
+      "color": "white",
+      "opening": "French Defense La Bourdonnais Variation",
+      "result": "loss",
+      "accuracy": 82.0,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "f4",
+          "best": "d4",
+          "loss_cp": 72
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Bc4",
+          "best": "d4",
+          "loss_cp": 126
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "a4",
+          "best": "Qe2",
+          "loss_cp": 116
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "O-O",
+          "best": "Qf3",
+          "loss_cp": 173
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "cxb4",
+          "best": "Qf3",
+          "loss_cp": 179
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Nc3",
+          "best": "Qf3",
+          "loss_cp": 89
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Ne4",
+          "best": "Qf3",
+          "loss_cp": 218
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Ng3",
+          "best": "h3",
+          "loss_cp": 772
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "h3",
+          "best": "Rf3",
+          "loss_cp": 356
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Kf1",
+          "best": "Kf1",
+          "loss_cp": 123
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Kf3",
+          "best": "Ke2",
+          "loss_cp": 241
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Qa6",
+          "best": "Qxf8+",
+          "loss_cp": 277
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Qxa5",
+          "best": "Qb7",
+          "loss_cp": 250
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Qb5",
+          "best": "Qxc5",
+          "loss_cp": 271
+        }
+      ]
+    },
+    {
+      "color": "black",
+      "opening": "Slav Defense",
+      "result": "loss",
+      "accuracy": 86.1,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Be7",
+          "best": "Bb4+",
+          "loss_cp": 58
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Nxd2",
+          "best": "Qxh4",
+          "loss_cp": 213
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "fxg6",
+          "best": "Ne4",
+          "loss_cp": 355
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "O-O-O",
+          "best": "Qf6",
+          "loss_cp": 74
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Nb6",
+          "best": "Re2",
+          "loss_cp": 176
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Ra1+",
+          "best": "Qf3",
+          "loss_cp": 733
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Qg2+",
+          "best": "Qxh3",
+          "loss_cp": 137
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "Qxd4",
+          "best": "Re8",
+          "loss_cp": 1004
+        }
+      ]
+    },
+    {
+      "color": "black",
+      "opening": "Queens Pawn Opening Chigorin Variation 2...c6",
+      "result": "win",
+      "accuracy": 86.0,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Be6",
+          "best": "Nd7",
+          "loss_cp": 106
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "f6",
+          "best": "Nf6",
+          "loss_cp": 68
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Nd7",
+          "best": "Bf7",
+          "loss_cp": 75
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "O-O-O",
+          "best": "Bf7",
+          "loss_cp": 132
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Qb6",
+          "best": "Bf7",
+          "loss_cp": 101
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Bg4",
+          "best": "Bf7",
+          "loss_cp": 69
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "f5",
+          "best": "Nh6",
+          "loss_cp": 57
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Nxe5",
+          "best": "Bxd1",
+          "loss_cp": 325
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Qxe5",
+          "best": "Bxd1",
+          "loss_cp": 578
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "d4",
+          "best": "Qxa1+",
+          "loss_cp": 123
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Kb8",
+          "best": "Kb8",
+          "loss_cp": 74
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Ka8",
+          "best": "e5",
+          "loss_cp": 329
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Ne7",
+          "best": "Qxh2",
+          "loss_cp": 225
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Rhf8",
+          "best": "Qxh2",
+          "loss_cp": 79
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "f4",
+          "best": "f4",
+          "loss_cp": 124
+        }
+      ]
+    },
+    {
+      "color": "white",
+      "opening": "Sicilian Defense McDonnell Attack 2...d6",
+      "result": "loss",
+      "accuracy": 87.6,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Nf3",
+          "best": "d3",
+          "loss_cp": 225
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "exf5",
+          "best": "d3",
+          "loss_cp": 79
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Bxe6",
+          "best": "d4",
+          "loss_cp": 65
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Nd5",
+          "best": "d4",
+          "loss_cp": 434
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "d3",
+          "best": "c4",
+          "loss_cp": 66
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "c4",
+          "best": "c4",
+          "loss_cp": 54
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "b3",
+          "best": "d4",
+          "loss_cp": 68
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "dxc4",
+          "best": "Qxc4",
+          "loss_cp": 58
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Qc2",
+          "best": "Qg5",
+          "loss_cp": 58
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Rxc5+",
+          "best": "Qxb3",
+          "loss_cp": 499
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Kg1",
+          "best": "Kg1",
+          "loss_cp": 230
+        }
+      ]
+    },
+    {
+      "color": "black",
+      "opening": "Caro Kann Defense 2.Nf3 d5 3.exd5 cxd5",
+      "result": "win",
+      "accuracy": 93.9,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "h5",
+          "best": "e6",
+          "loss_cp": 67
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Bh7",
+          "best": "Be6",
+          "loss_cp": 66
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "g6",
+          "best": "Be4",
+          "loss_cp": 89
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "g5",
+          "best": "f5",
+          "loss_cp": 305
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Qe7+",
+          "best": "Nxd4",
+          "loss_cp": 51
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "O-O",
+          "best": "d4",
+          "loss_cp": 167
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "d4",
+          "best": "Bxc3",
+          "loss_cp": 175
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "a5",
+          "best": "Rfd8",
+          "loss_cp": 98
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Rac8",
+          "best": "Rfe8",
+          "loss_cp": 97
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "axb4",
+          "best": "dxc3+",
+          "loss_cp": 62
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Bxc3+",
+          "best": "Rfd8",
+          "loss_cp": 55
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Re5",
+          "best": "f4",
+          "loss_cp": 143
+        }
+      ]
+    },
+    {
+      "color": "white",
+      "opening": "Caro Kann Defense 2.f4 d5 3.e5",
+      "result": "loss",
+      "accuracy": 88.8,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "f4",
+          "best": "d4",
+          "loss_cp": 53
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "e5",
+          "best": "d3",
+          "loss_cp": 54
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Bxf5",
+          "best": "g4",
+          "loss_cp": 163
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Bg5",
+          "best": "dxc5",
+          "loss_cp": 146
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Ncb5",
+          "best": "Nf3",
+          "loss_cp": 59
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Rf1",
+          "best": "Re1",
+          "loss_cp": 102
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Qf5+",
+          "best": "Rf4",
+          "loss_cp": 647
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Rxf5",
+          "best": "c3",
+          "loss_cp": 50
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Kh1",
+          "best": "Kf1",
+          "loss_cp": 258
+        }
+      ]
+    },
+    {
+      "color": "white",
+      "opening": "Scandinavian Defense Mieses Kotrc Main Line 4.Nf3 Nf6 5.Bc4 Bg4",
+      "result": "win",
+      "accuracy": 91.6,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Bc4",
+          "best": "d4",
+          "loss_cp": 62
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Qe2",
+          "best": "h3",
+          "loss_cp": 64
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Ne4",
+          "best": "h3",
+          "loss_cp": 52
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Qxb7",
+          "best": "Bxd2",
+          "loss_cp": 147
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Ra1",
+          "best": "Bxa2",
+          "loss_cp": 441
+        }
+      ]
+    },
+    {
+      "color": "black",
+      "opening": "Caro Kann Defense 2.Nf3 d5 3.exd5 cxd5",
+      "result": "win",
+      "accuracy": 90.5,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "h6",
+          "best": "Nxd4",
+          "loss_cp": 97
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "exf6",
+          "best": "gxf6",
+          "loss_cp": 133
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Nxd4",
+          "best": "Bb4",
+          "loss_cp": 56
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Ne6",
+          "best": "Qe7",
+          "loss_cp": 247
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "b5",
+          "best": "Be7",
+          "loss_cp": 110
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "fxe6",
+          "best": "Bxf2",
+          "loss_cp": 155
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Rd5",
+          "best": "Rd6",
+          "loss_cp": 93
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Rd7",
+          "best": "Rd6",
+          "loss_cp": 296
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "bxc4",
+          "best": "Rc2+",
+          "loss_cp": 71
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Rxa2",
+          "best": "Rdc2+",
+          "loss_cp": 90
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "hxg5",
+          "best": "Ra1+",
+          "loss_cp": 216
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "f5",
+          "best": "Ra1+",
+          "loss_cp": 219
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Rh4",
+          "best": "Rd3",
+          "loss_cp": 118
+        }
+      ]
+    },
+    {
+      "color": "black",
+      "opening": "Caro Kann Defense 2.d4 d5 3.Nc3",
+      "result": "loss",
+      "accuracy": 85.4,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Nf6",
+          "best": "dxe4",
+          "loss_cp": 100
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Nbd7",
+          "best": "e6",
+          "loss_cp": 97
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "e6",
+          "best": "dxe4",
+          "loss_cp": 72
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Nxc3",
+          "best": "Bb4",
+          "loss_cp": 105
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Qb2",
+          "best": "Nb6",
+          "loss_cp": 66
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Qe4",
+          "best": "h5",
+          "loss_cp": 169
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Nxa4",
+          "best": "Qxa4",
+          "loss_cp": 89
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Qd3",
+          "best": "Qa6",
+          "loss_cp": 151
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Bc5",
+          "best": "Bh4",
+          "loss_cp": 59
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Bxd4",
+          "best": "Bb6",
+          "loss_cp": 240
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "Rc3",
+          "best": "Nc1",
+          "loss_cp": 785
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "e4",
+          "best": "Ra3",
+          "loss_cp": 690
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "a6",
+          "best": "Kf6",
+          "loss_cp": 160
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "a5",
+          "best": "h5",
+          "loss_cp": 214
+        }
+      ]
+    },
+    {
+      "color": "white",
+      "opening": "Kings Gambit Accepted Kings Knight Gambit",
+      "result": "win",
+      "accuracy": 89.3,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "f4",
+          "best": "Nf3",
+          "loss_cp": 89
+        },
+        {
+          "phase": "obertura",
+          "tag": "blunder",
+          "move": "Bxf4",
+          "best": "Nc3",
+          "loss_cp": 362
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Bd3",
+          "best": "Nc3",
+          "loss_cp": 98
+        },
+        {
+          "phase": "obertura",
+          "tag": "blunder",
+          "move": "Ng5",
+          "best": "Rg3",
+          "loss_cp": 459
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Kd2",
+          "best": "Rg3",
+          "loss_cp": 255
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Kc3",
+          "best": "Ke1",
+          "loss_cp": 135
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Nxd4",
+          "best": "Nxd4",
+          "loss_cp": 50
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Qxd5",
+          "best": "Nc3",
+          "loss_cp": 85
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Qc6+",
+          "best": "Qxa7",
+          "loss_cp": 52
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Raf1",
+          "best": "Rad1",
+          "loss_cp": 104
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Qa4+",
+          "best": "Rxf5",
+          "loss_cp": 267
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Qxa7",
+          "best": "Nb5",
+          "loss_cp": 58
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "a4",
+          "best": "Ne4",
+          "loss_cp": 123
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Nb5",
+          "best": "Nd5",
+          "loss_cp": 52
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "b6",
+          "best": "Rxf5",
+          "loss_cp": 141
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Ke3",
+          "best": "Kf2",
+          "loss_cp": 93
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Kg4",
+          "best": "Ke2",
+          "loss_cp": 148
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Rxf1",
+          "best": "Qa4+",
+          "loss_cp": 182
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Qxg7",
+          "best": "Rd1+",
+          "loss_cp": 174
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Kc3",
+          "best": "Kc5",
+          "loss_cp": 281
+        }
+      ]
+    },
+    {
+      "color": "black",
+      "opening": "Nimzowitsch Larsen Attack Classical Variation 2.Bb2 c6",
+      "result": "win",
+      "accuracy": 84.8,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Nbd7",
+          "best": "h5",
+          "loss_cp": 96
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Nh7",
+          "best": "Ng8",
+          "loss_cp": 75
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Bb4",
+          "best": "Bd6",
+          "loss_cp": 70
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Ba5",
+          "best": "Bd6",
+          "loss_cp": 54
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "exd5",
+          "best": "cxd5",
+          "loss_cp": 139
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Kf7",
+          "best": "Qe7",
+          "loss_cp": 56
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Qc5",
+          "best": "f5",
+          "loss_cp": 454
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "d4",
+          "best": "f5",
+          "loss_cp": 109
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Bxf4",
+          "best": "Rad8",
+          "loss_cp": 722
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Ne5",
+          "best": "Re3",
+          "loss_cp": 110
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Nd3+",
+          "best": "Ng4",
+          "loss_cp": 66
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Nxb2",
+          "best": "Ne1+",
+          "loss_cp": 123
+        }
+      ]
+    },
+    {
+      "color": "white",
+      "opening": "Kings Gambit Declined Queens Knight Defense 3.Nf3",
+      "result": "loss",
+      "accuracy": 83.6,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "f4",
+          "best": "Nf3",
+          "loss_cp": 69
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Bxc6",
+          "best": "d4",
+          "loss_cp": 73
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "d4",
+          "best": "fxe5",
+          "loss_cp": 67
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "O-O",
+          "best": "Nc3",
+          "loss_cp": 75
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Re1",
+          "best": "f5",
+          "loss_cp": 126
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Qh5",
+          "best": "Qd3",
+          "loss_cp": 133
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Qxb7",
+          "best": "d5",
+          "loss_cp": 266
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Qc6",
+          "best": "Qf3",
+          "loss_cp": 126
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Qe4",
+          "best": "Qc3",
+          "loss_cp": 252
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Qd5+",
+          "best": "Qd3",
+          "loss_cp": 166
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Nc3",
+          "best": "Na3",
+          "loss_cp": 233
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Be3",
+          "best": "Rf1",
+          "loss_cp": 214
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Rac1",
+          "best": "Qc6",
+          "loss_cp": 106
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Nb5",
+          "best": "Kg1",
+          "loss_cp": 144
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Re7",
+          "best": "Nd4",
+          "loss_cp": 193
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "Qxb6",
+          "best": "Qd2",
+          "loss_cp": 415
+        }
+      ]
+    },
+    {
+      "color": "black",
+      "opening": "Van t Kruijs Opening",
+      "result": "draw",
+      "accuracy": 91.9,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Bb4",
+          "best": "Na6",
+          "loss_cp": 62
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Bg4",
+          "best": "Nxe4",
+          "loss_cp": 93
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Bxc3",
+          "best": "Bxf3",
+          "loss_cp": 104
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Nxe4",
+          "best": "Nbd7",
+          "loss_cp": 247
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "g5+",
+          "best": "Qf6+",
+          "loss_cp": 360
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Qf4+",
+          "best": "Nf2+",
+          "loss_cp": 504
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Nc4",
+          "best": "Nc4",
+          "loss_cp": 62
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Nxd2",
+          "best": "Rc2+",
+          "loss_cp": 50
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "Rxf4+",
+          "best": "Rb3+",
+          "loss_cp": 440
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Rh2",
+          "best": "Ra3",
+          "loss_cp": 72
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Kg6",
+          "best": "Kf5",
+          "loss_cp": 151
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "h5+",
+          "best": "Rh2",
+          "loss_cp": 198
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Rxg5",
+          "best": "Kxg5",
+          "loss_cp": 79
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Kg6",
+          "best": "Kf4",
+          "loss_cp": 161
+        }
+      ]
+    },
+    {
+      "color": "white",
+      "opening": "Pirc Defense Harmonist Variation",
+      "result": "win",
+      "accuracy": 85.6,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "f4",
+          "best": "d4",
+          "loss_cp": 60
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "e5",
+          "best": "exf5",
+          "loss_cp": 72
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Bb3",
+          "best": "Nxd5",
+          "loss_cp": 95
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Ng5",
+          "best": "Bd2",
+          "loss_cp": 60
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Nxd5",
+          "best": "a3",
+          "loss_cp": 101
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Bxe6+",
+          "best": "Nxe6",
+          "loss_cp": 140
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Rd8+",
+          "best": "Nxc7",
+          "loss_cp": 184
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Bxc7",
+          "best": "Be3",
+          "loss_cp": 187
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Bh2",
+          "best": "Bg3",
+          "loss_cp": 84
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Rb1",
+          "best": "Bg3",
+          "loss_cp": 171
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "g4",
+          "best": "Bb4",
+          "loss_cp": 81
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "g5",
+          "best": "Bb4",
+          "loss_cp": 80
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Kg2",
+          "best": "Rb3",
+          "loss_cp": 58
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Kg3",
+          "best": "Rb3",
+          "loss_cp": 64
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "Bxg7",
+          "best": "Rg4",
+          "loss_cp": 1000
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "Bf6",
+          "best": "Rg4",
+          "loss_cp": 491
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "Bg5",
+          "best": "Rg4",
+          "loss_cp": 684
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Rg4",
+          "best": "a4",
+          "loss_cp": 267
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "Bd8",
+          "best": "Rxc4",
+          "loss_cp": 528
+        }
+      ]
+    },
+    {
+      "color": "black",
+      "opening": "Caro Kann Defense 2.d4 d5 3.Nc3",
+      "result": "loss",
+      "accuracy": 83.8,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "f6",
+          "best": "c5",
+          "loss_cp": 112
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Bb4",
+          "best": "Nh6",
+          "loss_cp": 84
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "c5",
+          "best": "Ne7",
+          "loss_cp": 197
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Ke7",
+          "best": "Kf8",
+          "loss_cp": 195
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Kf8",
+          "best": "Ngf6",
+          "loss_cp": 323
+        }
+      ]
+    },
+    {
+      "color": "white",
+      "opening": "Kings Gambit Accepted Kings Knight Gambit 3...g5 4.d4",
+      "result": "loss",
+      "accuracy": 87.4,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "f4",
+          "best": "Nf3",
+          "loss_cp": 115
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Bc4",
+          "best": "h4",
+          "loss_cp": 136
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "d5",
+          "best": "h4",
+          "loss_cp": 191
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Nxe5",
+          "best": "Bb5+",
+          "loss_cp": 87
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "O-O",
+          "best": "Qd3",
+          "loss_cp": 82
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Qh5",
+          "best": "a3",
+          "loss_cp": 65
+        },
+        {
+          "phase": "obertura",
+          "tag": "blunder",
+          "move": "Qxg5",
+          "best": "Nd2",
+          "loss_cp": 604
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Nc3",
+          "best": "Be2",
+          "loss_cp": 54
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Bb5",
+          "best": "Kh1",
+          "loss_cp": 80
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Nxb5",
+          "best": "Nxb5",
+          "loss_cp": 95
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Re1",
+          "best": "Bxf4",
+          "loss_cp": 149
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "c3",
+          "best": "dxc6",
+          "loss_cp": 224
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Kg2",
+          "best": "Rad1",
+          "loss_cp": 139
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "d6",
+          "best": "Bg5",
+          "loss_cp": 68
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Red1",
+          "best": "Bg5",
+          "loss_cp": 125
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "c4",
+          "best": "Re1",
+          "loss_cp": 107
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "c5",
+          "best": "Rd2",
+          "loss_cp": 121
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "cxd6",
+          "best": "Rd2",
+          "loss_cp": 98
+        }
+      ]
+    },
+    {
+      "color": "white",
+      "opening": "Kings Gambit Declined Classical Variation 3.Nf3 d6",
+      "result": "win",
+      "accuracy": 89.6,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "f4",
+          "best": "Nf3",
+          "loss_cp": 56
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "d4",
+          "best": "c3",
+          "loss_cp": 78
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "e5",
+          "best": "Nc3",
+          "loss_cp": 62
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Qa4+",
+          "best": "Nc3",
+          "loss_cp": 122
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Qb4",
+          "best": "Qa3",
+          "loss_cp": 123
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Bb3",
+          "best": "Na3",
+          "loss_cp": 53
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "a3",
+          "best": "Bg5+",
+          "loss_cp": 84
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Bxe6",
+          "best": "Bg5+",
+          "loss_cp": 65
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Bxc7",
+          "best": "Bc3",
+          "loss_cp": 345
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Rxe6",
+          "best": "Bg3",
+          "loss_cp": 170
+        }
+      ]
+    },
+    {
+      "color": "black",
+      "opening": "Caro Kann Defense Exchange Variation 3...cxd5 4.Nf3",
+      "result": "loss",
+      "accuracy": 88.3,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Bh5",
+          "best": "Bxf3",
+          "loss_cp": 70
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "f6",
+          "best": "Nf6",
+          "loss_cp": 117
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "f5",
+          "best": "e6",
+          "loss_cp": 251
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Rh5",
+          "best": "Rh7",
+          "loss_cp": 74
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Nxe3",
+          "best": "Nxe3",
+          "loss_cp": 51
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Nc6",
+          "best": "Rfh8",
+          "loss_cp": 246
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Kb7",
+          "best": "Rfh8",
+          "loss_cp": 57
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Kb6",
+          "best": "Rfh8",
+          "loss_cp": 75
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "f4",
+          "best": "Rfh8",
+          "loss_cp": 147
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Rxf4",
+          "best": "Kc7",
+          "loss_cp": 58
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Kb5",
+          "best": "Kc7",
+          "loss_cp": 96
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Rfxh4",
+          "best": "c5",
+          "loss_cp": 83
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "a6",
+          "best": "Rh1",
+          "loss_cp": 365
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "Rd2",
+          "best": "Rh7",
+          "loss_cp": 504
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "c5",
+          "best": "c5",
+          "loss_cp": 212
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Kf7",
+          "best": "Rd2",
+          "loss_cp": 161
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Kf7",
+          "best": "Re2",
+          "loss_cp": 141
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Rg8",
+          "best": "Kb7",
+          "loss_cp": 56
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Re8",
+          "best": "Rg5+",
+          "loss_cp": 54
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "Ra3",
+          "best": "Re6",
+          "loss_cp": 386
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Re3",
+          "best": "Kb7",
+          "loss_cp": 144
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "Ra3",
+          "best": "Kb7",
+          "loss_cp": 333
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Rc3",
+          "best": "Rb3+",
+          "loss_cp": 157
+        }
+      ]
+    },
+    {
+      "color": "black",
+      "opening": "Caro Kann Defense",
+      "result": "loss",
+      "accuracy": 88.7,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Qe7",
+          "best": "Qc7",
+          "loss_cp": 57
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Nxe5",
+          "best": "fxe5",
+          "loss_cp": 50
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "e3",
+          "best": "a5",
+          "loss_cp": 118
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "a5",
+          "best": "c5",
+          "loss_cp": 324
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Be7",
+          "best": "c5",
+          "loss_cp": 486
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Rg8",
+          "best": "h5",
+          "loss_cp": 115
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Kc5",
+          "best": "Rg4",
+          "loss_cp": 55
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "d4",
+          "best": "d4",
+          "loss_cp": 53
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "d3",
+          "best": "d3",
+          "loss_cp": 94
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "Kb5",
+          "best": "a4+",
+          "loss_cp": 484
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "axb3+",
+          "best": "Rh3",
+          "loss_cp": 55
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "f4",
+          "best": "h4",
+          "loss_cp": 336
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "f3",
+          "best": "fxg3",
+          "loss_cp": 256
+        }
+      ]
+    },
+    {
+      "color": "black",
+      "opening": "Caro Kann Defense 2.Nf3 d5 3.exd5 cxd5",
+      "result": "win",
+      "accuracy": 91.3,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Bh5",
+          "best": "Bxf3",
+          "loss_cp": 52
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Bg6",
+          "best": "Nc6",
+          "loss_cp": 77
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Ng4",
+          "best": "Ne4",
+          "loss_cp": 172
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Nxe3",
+          "best": "Nd7",
+          "loss_cp": 59
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Nc6",
+          "best": "Nd7",
+          "loss_cp": 57
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Qe7",
+          "best": "Rc8",
+          "loss_cp": 109
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "O-O-O",
+          "best": "Rc8",
+          "loss_cp": 105
+        }
+      ]
+    },
+    {
+      "color": "white",
+      "opening": "Nimzowitsch Defense",
+      "result": "win",
+      "accuracy": 86.2,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "f4",
+          "best": "d4",
+          "loss_cp": 84
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Nc3",
+          "best": "e5",
+          "loss_cp": 109
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Be3",
+          "best": "Bd3",
+          "loss_cp": 56
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "O-O",
+          "best": "Bxh7+",
+          "loss_cp": 225
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Qc2",
+          "best": "Ng5",
+          "loss_cp": 59
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "fxe5",
+          "best": "Bxh7+",
+          "loss_cp": 127
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Bg5",
+          "best": "exf6",
+          "loss_cp": 279
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Qd2",
+          "best": "Bd2",
+          "loss_cp": 58
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Nxf5",
+          "best": "e6",
+          "loss_cp": 107
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Be7",
+          "best": "Qf4",
+          "loss_cp": 265
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Bf6",
+          "best": "Qf8+",
+          "loss_cp": 154
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "Qd7+",
+          "best": "Qf6+",
+          "loss_cp": 1068
+        }
+      ]
+    },
+    {
+      "color": "black",
+      "opening": "Reti Opening Slav Invitation",
+      "result": "win",
+      "accuracy": 87.9,
+      "errors": [
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Ndf6",
+          "best": "e5",
+          "loss_cp": 104
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Bxe5",
+          "best": "Nxe5",
+          "loss_cp": 146
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "g6",
+          "best": "Ne4",
+          "loss_cp": 66
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Ne4",
+          "best": "Re5",
+          "loss_cp": 80
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Qg5",
+          "best": "Qf6",
+          "loss_cp": 128
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "a6",
+          "best": "Ne4",
+          "loss_cp": 50
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Rab8",
+          "best": "Ne4",
+          "loss_cp": 56
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Rb2",
+          "best": "Ne4",
+          "loss_cp": 179
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Nd3",
+          "best": "Nc4",
+          "loss_cp": 64
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "Nexf2",
+          "best": "c5",
+          "loss_cp": 338
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Rb8",
+          "best": "Kf7",
+          "loss_cp": 64
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Kf6",
+          "best": "Ke6",
+          "loss_cp": 61
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "h5",
+          "best": "g5",
+          "loss_cp": 110
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "f4+",
+          "best": "h4+",
+          "loss_cp": 246
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Rf2+",
+          "best": "Rxg2",
+          "loss_cp": 155
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Rf1",
+          "best": "Rd2",
+          "loss_cp": 63
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Kg5",
+          "best": "Ra1",
+          "loss_cp": 106
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Rf4",
+          "best": "Ra1",
+          "loss_cp": 243
+        }
+      ]
+    },
+    {
+      "color": "white",
+      "opening": "Kings Gambit Accepted Kings Knight Gambit",
+      "result": "loss",
+      "accuracy": 84.9,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "f4",
+          "best": "Nf3",
+          "loss_cp": 71
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "e5",
+          "best": "Bd3",
+          "loss_cp": 95
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Bc4",
+          "best": "Bd2",
+          "loss_cp": 152
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Bxf4",
+          "best": "Qxa1",
+          "loss_cp": 135
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Bd2",
+          "best": "Kf2",
+          "loss_cp": 100
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Nxd4",
+          "best": "Bg5",
+          "loss_cp": 190
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Qg4",
+          "best": "Bd3",
+          "loss_cp": 140
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Kh1",
+          "best": "Qxd4",
+          "loss_cp": 1601
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Qxg7+",
+          "best": "Rxf8+",
+          "loss_cp": 1319
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Bxg7",
+          "best": "Rxf8+",
+          "loss_cp": 210
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "g4",
+          "best": "Kg1",
+          "loss_cp": 168
+        }
+      ]
+    },
+    {
+      "color": "white",
+      "opening": "Kings Gambit Accepted Kings Knight Gambit",
+      "result": "win",
+      "accuracy": 96.0,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "f4",
+          "best": "Nf3",
+          "loss_cp": 93
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "O-O",
+          "best": "Qd7",
+          "loss_cp": 60
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Qxe2",
+          "best": "Qc8+",
+          "loss_cp": 84
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Qe7",
+          "best": "Qe8#",
+          "loss_cp": 53
+        }
+      ]
+    },
+    {
+      "color": "black",
+      "opening": "London System...4.c3 Bf5 5.e3 e6",
+      "result": "loss",
+      "accuracy": 88.2,
+      "errors": [
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "c4",
+          "best": "Rc8",
+          "loss_cp": 134
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Qd5",
+          "best": "Qxg2",
+          "loss_cp": 203
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Qa5+",
+          "best": "Qxg2",
+          "loss_cp": 83
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "O-O-O",
+          "best": "Rc8",
+          "loss_cp": 137
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Qxb1+",
+          "best": "Ng4",
+          "loss_cp": 580
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Ne4",
+          "best": "Ng4",
+          "loss_cp": 87
+        }
+      ]
+    },
+    {
+      "color": "white",
+      "opening": "Kings Gambit",
+      "result": "win",
+      "accuracy": 90.4,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "f4",
+          "best": "Nf3",
+          "loss_cp": 69
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Bc4",
+          "best": "a4",
+          "loss_cp": 75
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "dxc6",
+          "best": "Bc4",
+          "loss_cp": 76
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "cxd7+",
+          "best": "Na3",
+          "loss_cp": 58
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Nbd2",
+          "best": "b4",
+          "loss_cp": 179
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Bxf4",
+          "best": "Nd6+",
+          "loss_cp": 108
+        }
+      ]
+    },
+    {
+      "color": "white",
+      "opening": "Kings Gambit Declined Queens Knight Defense 3.Nf3",
+      "result": "win",
+      "accuracy": 88.2,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "f4",
+          "best": "Nf3",
+          "loss_cp": 64
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "fxe5",
+          "best": "d5",
+          "loss_cp": 66
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "dxe5",
+          "best": "Bb5",
+          "loss_cp": 90
+        },
+        {
+          "phase": "obertura",
+          "tag": "blunder",
+          "move": "Bg5",
+          "best": "Nc3",
+          "loss_cp": 482
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Bb5+",
+          "best": "Nc3",
+          "loss_cp": 115
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "O-O",
+          "best": "Nc3",
+          "loss_cp": 79
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Kh1",
+          "best": "Kh1",
+          "loss_cp": 55
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Bd3",
+          "best": "e5",
+          "loss_cp": 148
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Rxf4",
+          "best": "Rxf4",
+          "loss_cp": 63
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Rxg4",
+          "best": "Rxe4",
+          "loss_cp": 660
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Re2+",
+          "best": "Rd6+",
+          "loss_cp": 128
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "h4+",
+          "best": "Bd3",
+          "loss_cp": 63
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Bc4",
+          "best": "Re7",
+          "loss_cp": 77
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Rxg7+",
+          "best": "Bg8",
+          "loss_cp": 207
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Rb6",
+          "best": "b4",
+          "loss_cp": 187
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "b4",
+          "best": "Kg3",
+          "loss_cp": 82
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Rxb5",
+          "best": "Rc6",
+          "loss_cp": 104
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Rc5",
+          "best": "Rg5+",
+          "loss_cp": 91
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "g5",
+          "best": "Kg6",
+          "loss_cp": 986
+        }
+      ]
+    },
+    {
+      "color": "white",
+      "opening": "Scandinavian Defense Mieses Kotrc Variation 3.Nc3",
+      "result": "win",
+      "accuracy": 87.9,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Nf3",
+          "best": "d4",
+          "loss_cp": 91
+        },
+        {
+          "phase": "obertura",
+          "tag": "blunder",
+          "move": "Ng5",
+          "best": "d4",
+          "loss_cp": 320
+        }
+      ]
+    },
+    {
+      "color": "black",
+      "opening": "London System 3...c6 4.e3 Bf5 5.Bd3",
+      "result": "win",
+      "accuracy": 93.5,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Ne4",
+          "best": "Be7",
+          "loss_cp": 52
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Bd6",
+          "best": "Nxe5",
+          "loss_cp": 168
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "b6",
+          "best": "Qb6",
+          "loss_cp": 73
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Qf6",
+          "best": "Qd7",
+          "loss_cp": 72
+        }
+      ]
+    },
+    {
+      "color": "black",
+      "opening": "Slav Defense Modern Exchange Variation 4...cxd5 5.Nc3",
+      "result": "loss",
+      "accuracy": 86.7,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Qxd7",
+          "best": "Nxd7",
+          "loss_cp": 99
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Bb4",
+          "best": "Bg4",
+          "loss_cp": 138
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Nh5",
+          "best": "Bd3",
+          "loss_cp": 270
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Bg6",
+          "best": "Qxb2",
+          "loss_cp": 853
+        }
+      ]
+    },
+    {
+      "color": "black",
+      "opening": "Caro Kann Defense 2.f4 d5",
+      "result": "loss",
+      "accuracy": 80.0,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Bf5",
+          "best": "Nf6",
+          "loss_cp": 61
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Bg6",
+          "best": "Nf6",
+          "loss_cp": 131
+        },
+        {
+          "phase": "obertura",
+          "tag": "blunder",
+          "move": "Bd6",
+          "best": "Qd4+",
+          "loss_cp": 324
+        },
+        {
+          "phase": "obertura",
+          "tag": "blunder",
+          "move": "c5",
+          "best": "Nf6",
+          "loss_cp": 415
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "a6",
+          "best": "f5",
+          "loss_cp": 220
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Nc6",
+          "best": "Nf6",
+          "loss_cp": 348
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Bf7",
+          "best": "Rd8",
+          "loss_cp": 525
+        }
+      ]
+    },
+    {
+      "color": "white",
+      "opening": "Pirc Defense...3.f4 g6 4.Nf3 Bg7",
+      "result": "loss",
+      "accuracy": 81.8,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "f4",
+          "best": "d4",
+          "loss_cp": 68
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Bb5+",
+          "best": "d4",
+          "loss_cp": 82
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "O-O",
+          "best": "e5",
+          "loss_cp": 122
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Nd4",
+          "best": "e5",
+          "loss_cp": 284
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Nd5",
+          "best": "Nc6",
+          "loss_cp": 144
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Ncxb4",
+          "best": "Ncxe7",
+          "loss_cp": 52
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Re1",
+          "best": "Ra5",
+          "loss_cp": 51
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Nxe7",
+          "best": "Rxe7+",
+          "loss_cp": 104
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Ned5",
+          "best": "Nbd5",
+          "loss_cp": 449
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Na2",
+          "best": "f5",
+          "loss_cp": 184
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "c4",
+          "best": "f5",
+          "loss_cp": 56
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Ne4",
+          "best": "Nd5",
+          "loss_cp": 203
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Ng5",
+          "best": "Bd2",
+          "loss_cp": 434
+        }
+      ]
+    },
+    {
+      "color": "black",
+      "opening": "Caro Kann Defense Fantasy Variation",
+      "result": "win",
+      "accuracy": 91.0,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Nf6",
+          "best": "e6",
+          "loss_cp": 54
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "c5",
+          "best": "dxc4",
+          "loss_cp": 75
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Qa5+",
+          "best": "Nc6",
+          "loss_cp": 201
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "O-O",
+          "best": "Nxf3+",
+          "loss_cp": 177
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "a6",
+          "best": "Rd8",
+          "loss_cp": 66
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "e5",
+          "best": "Bf6",
+          "loss_cp": 197
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "e2",
+          "best": "Rd2",
+          "loss_cp": 164
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "a4",
+          "best": "a4",
+          "loss_cp": 106
+        }
+      ]
+    },
+    {
+      "color": "white",
+      "opening": "Kings Gambit Declined Queens Knight Defense 3.Nf3",
+      "result": "win",
+      "accuracy": 90.6,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "f4",
+          "best": "Nf3",
+          "loss_cp": 78
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Qd3",
+          "best": "d5",
+          "loss_cp": 155
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "gxf3",
+          "best": "Qxf3",
+          "loss_cp": 57
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "e5",
+          "best": "h4",
+          "loss_cp": 209
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Qe4",
+          "best": "Qe2",
+          "loss_cp": 105
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Qxb7",
+          "best": "Bb5+",
+          "loss_cp": 126
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Nd2",
+          "best": "Qf3",
+          "loss_cp": 56
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Qc6",
+          "best": "Qxb8",
+          "loss_cp": 85
+        }
+      ]
+    },
+    {
+      "color": "white",
+      "opening": "Scandinavian Defense Mieses Kotrc Variation 3.Nc3 Qd8 4.Nf3",
+      "result": "win",
+      "accuracy": 92.9,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "O-O",
+          "best": "Qf3",
+          "loss_cp": 154
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Qb5",
+          "best": "Nxd8",
+          "loss_cp": 82
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Re1+",
+          "best": "d4",
+          "loss_cp": 59
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Nd5+",
+          "best": "b3",
+          "loss_cp": 70
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Qg5+",
+          "best": "Qe4",
+          "loss_cp": 78
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Qg3+",
+          "best": "Qxf6",
+          "loss_cp": 60
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "d3",
+          "best": "Qg7+",
+          "loss_cp": 102
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Bf4+",
+          "best": "Bf4+",
+          "loss_cp": 73
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Qxf6+",
+          "best": "Rac1",
+          "loss_cp": 120
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Qxf4",
+          "best": "Re7+",
+          "loss_cp": 166
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Qe4+",
+          "best": "Rae1",
+          "loss_cp": 97
+        }
+      ]
+    },
+    {
+      "color": "black",
+      "opening": "Caro Kann Defense 2.Nf3 d5",
+      "result": "win",
+      "accuracy": 96.0,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Bb4+",
+          "best": "c5",
+          "loss_cp": 51
+        },
+        {
+          "phase": "obertura",
+          "tag": "blunder",
+          "move": "Ngf6",
+          "best": "Bxd1",
+          "loss_cp": 1161
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Qxf8",
+          "best": "Ne3",
+          "loss_cp": 93
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Nxc3",
+          "best": "Qf4+",
+          "loss_cp": 121
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Qf7",
+          "best": "Qxf1",
+          "loss_cp": 61
+        }
+      ]
+    },
+    {
+      "color": "white",
+      "opening": "Scandinavian Defense Mieses Kotrc Variation 3.Nc3 Qd8 4.Bc4",
+      "result": "loss",
+      "accuracy": 89.4,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Nf3",
+          "best": "Qf3",
+          "loss_cp": 56
+        },
+        {
+          "phase": "obertura",
+          "tag": "blunder",
+          "move": "Ng5",
+          "best": "d4",
+          "loss_cp": 410
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "d4",
+          "best": "O-O",
+          "loss_cp": 185
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Qxc6+",
+          "best": "Qxc7",
+          "loss_cp": 388
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Rg1",
+          "best": "Be2",
+          "loss_cp": 168
+        }
+      ]
+    },
+    {
+      "color": "black",
+      "opening": "Queens Pawn Opening Zukertort Variation...3.e3 Bg4 4.c4 e6",
+      "result": "loss",
+      "accuracy": 84.9,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "g6",
+          "best": "b6",
+          "loss_cp": 253
+        },
+        {
+          "phase": "obertura",
+          "tag": "blunder",
+          "move": "Qe7",
+          "best": "Bxe2",
+          "loss_cp": 326
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Nd7",
+          "best": "Bxe5",
+          "loss_cp": 98
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Qxb5",
+          "best": "Bxe5",
+          "loss_cp": 822
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Bxe5",
+          "best": "Rab8",
+          "loss_cp": 118
+        }
+      ]
+    },
+    {
+      "color": "black",
+      "opening": "Caro Kann Defense 2.d4 d5 3.Nc3",
+      "result": "loss",
+      "accuracy": 74.9,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "blunder",
+          "move": "Bg4",
+          "best": "dxe4",
+          "loss_cp": 519
+        }
+      ]
+    },
+    {
+      "color": "white",
+      "opening": "Kings Gambit Accepted Fischer Defense 4.d4",
+      "result": "win",
+      "accuracy": 86.1,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "f4",
+          "best": "Nf3",
+          "loss_cp": 104
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Bb5+",
+          "best": "Qd2",
+          "loss_cp": 62
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "e5",
+          "best": "b4",
+          "loss_cp": 144
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "cxd5",
+          "best": "Bxf6",
+          "loss_cp": 80
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Nh4",
+          "best": "Nd4",
+          "loss_cp": 132
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Qxc5",
+          "best": "Kh1",
+          "loss_cp": 417
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Kg3",
+          "best": "R1c2",
+          "loss_cp": 259
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "Rf1",
+          "best": "R1c2",
+          "loss_cp": 320
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "Kf4",
+          "best": "Kf2",
+          "loss_cp": 578
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Ke5",
+          "best": "Kf5",
+          "loss_cp": 70
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Re1",
+          "best": "Rc2",
+          "loss_cp": 96
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Kc7",
+          "best": "Ke7",
+          "loss_cp": 278
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "Kg6",
+          "best": "Re3",
+          "loss_cp": 367
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Re4+",
+          "best": "Re3",
+          "loss_cp": 272
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "Re2",
+          "best": "Re3",
+          "loss_cp": 429
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "Rg4+",
+          "best": "Kg5",
+          "loss_cp": 503
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Rc4",
+          "best": "Kc4",
+          "loss_cp": 96
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "Rb4+",
+          "best": "Kb4",
+          "loss_cp": 555
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "Ra4+",
+          "best": "Kc4",
+          "loss_cp": 546
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "Kc4",
+          "best": "Rc4",
+          "loss_cp": 552
+        }
+      ]
+    },
+    {
+      "color": "white",
+      "opening": "Kings Gambit Accepted Kings Knight Gambit",
+      "result": "win",
+      "accuracy": 83.3,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "f4",
+          "best": "Nf3",
+          "loss_cp": 99
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "e5",
+          "best": "Nc3",
+          "loss_cp": 50
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Na3",
+          "best": "d5",
+          "loss_cp": 247
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Nxc4",
+          "best": "Qa4+",
+          "loss_cp": 100
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Be3",
+          "best": "Qe2",
+          "loss_cp": 507
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Bd2",
+          "best": "Qb3",
+          "loss_cp": 158
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "O-O",
+          "best": "O-O-O",
+          "loss_cp": 57
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Rad1",
+          "best": "Nd4",
+          "loss_cp": 259
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Kh1",
+          "best": "Nd4",
+          "loss_cp": 218
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Nd4",
+          "best": "Ne5",
+          "loss_cp": 221
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Nf4",
+          "best": "Rf1",
+          "loss_cp": 130
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "b5",
+          "best": "bxc5",
+          "loss_cp": 78
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "a4",
+          "best": "Nf4",
+          "loss_cp": 116
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Nxh5",
+          "best": "Rxd6",
+          "loss_cp": 107
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Rxd6",
+          "best": "Rf1",
+          "loss_cp": 61
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Kh3",
+          "best": "Kf3",
+          "loss_cp": 81
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Rh6",
+          "best": "Nf6+",
+          "loss_cp": 152
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Kh3",
+          "best": "Kf5",
+          "loss_cp": 146
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "Nf6+",
+          "best": "Nxg7",
+          "loss_cp": 301
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Rc6",
+          "best": "Rf4",
+          "loss_cp": 59
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "Rxf7",
+          "best": "Rxa4",
+          "loss_cp": 572
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Rf6+",
+          "best": "g4",
+          "loss_cp": 91
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Rc6+",
+          "best": "g4",
+          "loss_cp": 125
+        }
+      ]
+    },
+    {
+      "color": "black",
+      "opening": "Caro Kann Defense 2.Nc3 d5",
+      "result": "loss",
+      "accuracy": 89.2,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Nd7",
+          "best": "Qd5",
+          "loss_cp": 92
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Bg7",
+          "best": "Nxf2",
+          "loss_cp": 78
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Bxe6",
+          "best": "Bxe6",
+          "loss_cp": 78
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Qd6",
+          "best": "Qb6",
+          "loss_cp": 67
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "O-O-O",
+          "best": "b5",
+          "loss_cp": 53
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Rhe8",
+          "best": "Nd5",
+          "loss_cp": 56
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Be5",
+          "best": "Ne6",
+          "loss_cp": 58
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Bf6",
+          "best": "Bf6",
+          "loss_cp": 62
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Be5",
+          "best": "Qe6",
+          "loss_cp": 166
+        },
+        {
+          "phase": "migjoc",
+          "tag": "blunder",
+          "move": "Na4",
+          "best": "Ned7",
+          "loss_cp": 505
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Rf8",
+          "best": "Qd5",
+          "loss_cp": 201
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Qf6",
+          "best": "Qd5",
+          "loss_cp": 160
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Nc3",
+          "best": "Qe5",
+          "loss_cp": 61
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "Ne2",
+          "best": "Qe5",
+          "loss_cp": 348
+        }
+      ]
+    },
+    {
+      "color": "black",
+      "opening": "Caro Kann Defense Advance Variation 3...Bf5",
+      "result": "win",
+      "accuracy": 91.4,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "f6",
+          "best": "e6",
+          "loss_cp": 61
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "Bg6",
+          "best": "Bd7",
+          "loss_cp": 115
+        },
+        {
+          "phase": "obertura",
+          "tag": "blunder",
+          "move": "Be7",
+          "best": "hxg5",
+          "loss_cp": 420
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Qa5+",
+          "best": "Qb6",
+          "loss_cp": 80
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "d4",
+          "best": "Qb6",
+          "loss_cp": 95
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Qd5",
+          "best": "Qb6",
+          "loss_cp": 124
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Bg3",
+          "best": "Nd7",
+          "loss_cp": 254
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Nf5",
+          "best": "Nxg6",
+          "loss_cp": 50
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Kf8",
+          "best": "Re8",
+          "loss_cp": 55
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Raf8",
+          "best": "d4",
+          "loss_cp": 137
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Rc1+",
+          "best": "Kf6",
+          "loss_cp": 54
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Rb2+",
+          "best": "Rf4+",
+          "loss_cp": 131
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "b6+",
+          "best": "Kf6",
+          "loss_cp": 239
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Kf5",
+          "best": "Re4",
+          "loss_cp": 67
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Kxg6",
+          "best": "d4",
+          "loss_cp": 163
+        }
+      ]
+    },
+    {
+      "color": "white",
+      "opening": "Kings Gambit Declined Keene Defense 3.g3",
+      "result": "win",
+      "accuracy": 90.9,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "f4",
+          "best": "Nf3",
+          "loss_cp": 86
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "d3",
+          "best": "fxe5",
+          "loss_cp": 121
+        },
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "gxf4",
+          "best": "Nc3",
+          "loss_cp": 125
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "h3",
+          "best": "exd5",
+          "loss_cp": 88
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Ke1",
+          "best": "Rg1",
+          "loss_cp": 95
+        }
+      ]
+    },
+    {
+      "color": "white",
+      "opening": "Kings Gambit Declined Classical Variation 3.Nf3",
+      "result": "loss",
+      "accuracy": 85.6,
+      "errors": [
+        {
+          "phase": "obertura",
+          "tag": "mistake",
+          "move": "f4",
+          "best": "Nf3",
+          "loss_cp": 101
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "e5",
+          "best": "Nc3",
+          "loss_cp": 52
+        },
+        {
+          "phase": "obertura",
+          "tag": "inaccuracy",
+          "move": "Bc4",
+          "best": "Qd2",
+          "loss_cp": 82
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "e6",
+          "best": "Nc3",
+          "loss_cp": 109
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Qd3",
+          "best": "Nxd5",
+          "loss_cp": 97
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Re1",
+          "best": "Qb5",
+          "loss_cp": 99
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "c4",
+          "best": "Qf5",
+          "loss_cp": 109
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Rfe3",
+          "best": "b4",
+          "loss_cp": 115
+        },
+        {
+          "phase": "migjoc",
+          "tag": "inaccuracy",
+          "move": "Nxe7+",
+          "best": "Qf5",
+          "loss_cp": 58
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Qf5",
+          "best": "Qd2",
+          "loss_cp": 111
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Rf3",
+          "best": "Qxc2",
+          "loss_cp": 277
+        },
+        {
+          "phase": "migjoc",
+          "tag": "mistake",
+          "move": "Qe6+",
+          "best": "Qxc2",
+          "loss_cp": 281
+        },
+        {
+          "phase": "final",
+          "tag": "blunder",
+          "move": "Bxd6",
+          "best": "Qe4",
+          "loss_cp": 534
+        },
+        {
+          "phase": "final",
+          "tag": "mistake",
+          "move": "Bg3",
+          "best": "Kf2",
+          "loss_cp": 207
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Bg3",
+          "best": "Kh1",
+          "loss_cp": 97
+        },
+        {
+          "phase": "final",
+          "tag": "inaccuracy",
+          "move": "Kh3",
+          "best": "Bf2",
+          "loss_cp": 82
+        }
+      ]
+    }
+  ],
+  "evolucio_setmanal": []
+}
